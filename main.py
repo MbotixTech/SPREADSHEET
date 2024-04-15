@@ -269,7 +269,6 @@ async def humairadel(username: str, message: types.Message) -> None:
 
         updated_values = [row for row in values if row[0].strip().lower() != username.strip().lower()]
 
-        # Membuat baris kosong jika tidak ada data tersisa
         if not updated_values:
             updated_values.append([])
 
@@ -337,7 +336,6 @@ async def handle_input_command(message: types.Message):
                 print("Invalid /input command format. Expected format: '/input nama jumlah kripto'")
     except Exception as e:
         print(f"Error in handle_input_command: {e}")
-
 
 if __name__ == "__main__":
     try:
