@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "unique-pixel-399112",
+  "private_key_id": "ba074c386b2cc03ede9e1becc300f4ff77a554eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFVC/ra7qA/E/q\nMe1evhoQTLG7tlcQz3mA210WnJxOfx97AepBsfnm0vnKHjmUINkBVIDn4tQ92cKB\nRz+djr9gIpTWLNRHKSN2pDYL7VoFo6/2F42DHWReHy3U7gkUZ5gABn4HLIkQ8UKd\nzrDr6nXDNt4lKi3w1Or6ezO2XOhBnMEOgdlI0h2Csch1lFLwK5FXUP/47Hnc17er\nN4KMaqH+CyPxj6tUQ2A6nzJLG+l0EjWTRhU5qvFAtFRi+3E50254BK830UJe6nXo\nDn0LE3/jMN9BtqcNSvZuPcZp1nM0HQMtClNW1RWzhRjyLUeCJ0jUHROfc5kwAMWi\nTEWnfwDbAgMBAAECggEAOpoo7Qp+ReYouY2ASB2+0c5lDjE1pClplSoQeDGkfe9k\n4vwLnN0FMVbAlhTp1qL2r11wNu13SLMN/6SwMNN+5EcA2qZPmJ6QCKD16A7iKECX\ndkdCYIjvEMDDtLPIgIXPb1p+PRUt05lCxmjmw/lKZeI6kOD46cfhzOef0O3AkBM+\n6iW30GX5llNAje9hj5fhUQ77tzcQfCwQNzRiw9F/7nfEssgrIv9OKZupYkjn0FJO\nmGbG3q1P66iUkCi4xgmlR7FsmENtaNzVDgxFPfvfrXcUIvziQcMQ46JHubag+Spt\n/95BfgsNGI2akdEWtNAiPAgLxCi+4bwwWbKQDqKAeQKBgQDqJ+IkHKa2365MRYQa\nzOlbiE14qBWqn4dkBV+cTowSwI1VoTDxyyT0nswDlA6pXyeMcZ6TokyKxBMhIRK/\nrAOVMKvxgpASQHAHsuOxgYAZ6xmMvzsNDuoLCdITq85o2noij8FTr9QUTVwaXKYN\npIqMhM7OW0dNaWvfhqr/hhonRwKBgQDXvM032QE+x1ugQ7BQJICcJ3pe0Ihrrhur\nZvacx1ECLEcjoZsPMzJRqJyzwo6VhYurbIfG998BDM7ddnp4kIC3E3YYWb9vspfD\nXOKsJo6ni9tgG/QiRzrOZLvw4MBH6N5uyHNSHma0MfjrBRJQWIEdAnl0fyHF3sT1\nmpXflfaLzQKBgDRTJ0i0klipUXS/0A6BHeCTa+R7gyP2tDWYsc3nC4whNTQeaiaO\nI7r6RVLDYiddGSRcO3h4OyyDNlcf4eWtFbvf/XxhlbpOZfqCcjk3XB3umG4ISbTY\nUVqYHjbBHMX3lHVmtGf0Eatbwiot6/l+fGt8Pg6E/UECPtXbbRjeqbd/AoGAPccs\nARUcPSz7eP5JK/n39j971FDk7+jwtXmLn0OYWAXz7Skm7QhdHXMqRHOvPvP6FgHD\nM9/hNTzEtDhsQ8Ali8d/5uM0Zbj/qosbwe5cpW/wRypaE8LP/TBtfUHu7eiqYZD3\nLQnVoT46KJrQLr/ZYURHIWwScMYlIqu8xUT9T/UCgYEAgOqL3AO2NvSwikZSj9y/\nUNiGv3BUWHmVMT0BRTMX5f5okco8jVDVPknYKyJXL+y/aNzv3dxkh9pu/Rix7H4D\n+DGcd49snW4ln3aFpGf7RS3u3vdKujdztlccZKVPpVi38lHpVvbm/O1mWfIQ+iiJ\nlcd6XbTBtk9zX9/fI5SGVRw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mbotix-team@unique-pixel-399112.iam.gserviceaccount.com",
+  "client_id": "109849213369748345885",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mbotix-team%40unique-pixel-399112.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
